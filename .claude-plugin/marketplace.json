@@ -1,0 +1,5 @@
+{
+  "name": "lpusapati333-mods",
+  "owner": { "name": "lpusapati333" },
+  "plugins": [{ "name": "prompt-master", "source": "./prompt-master", "description": "One-click button that interviews you about a rough prompt and rewrites it with the best prompting framework" }]
+}
